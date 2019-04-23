@@ -1,3 +1,7 @@
+# To Run
+pip install tensorflow numpy
+python driver.py
+
 # Introduction
 I wanted to try something I hadn't before with this model and from a course in college and some messing around I had previously done a little reinforcement learning. From that and watching OpenAI crush professional Dota2 players with there deep q reinforcement learning models I wanted to take the time to implement that here and see if we could get something working.
 
